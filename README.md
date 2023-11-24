@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Serhii
 
+- 🔭 I’m currently working on migration java-based application to Aws EKS env.
+- 🌱 I’m currently learning Python and CKAD (Certified Kubernetes Application Developer)
+  
 <!--
 **shladyr/shladyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
