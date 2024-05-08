@@ -2,10 +2,10 @@
 
 I'm an IT engineer with 10+ years of experience in SysOps/SRE and 7+ years in DevOps/DevSecOps. Specialized in the security domain, focusing primarily on the backend layer of high-traffic systems. Skilled in Cloud Native Computing, CI/CD, IaC, InfoSec, Automation, Containerization and Observability.
 
-- 🌱 I’m currently learning AIOps and Platform Engineering approach.
-- 🔭 I’m planning to share here my Demos and Pet Projects.
+- 🌱 I’m currently learning AIOps and Platform Engineering approach
+- 🔭 I’m planning to share here my Demos and Pet Projects
+- 🧡 I like flowers 🌷, theatre 🎭 and baroque music 🎻
 - 😃 Fun fact about Me: "All my life, I dreamed of learning how to draw, and in IT, what I enjoyed most was creating diagrams. Now, artificial intelligence will both teach me to draw and create diagrams on its own."😅
-- My Resume: attaching file here
   
 <!--
 **shladyr/shladyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
