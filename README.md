@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Serhii
 
+I'm an IT engineer with 10+ years of experience in SysOps/SRE and 7+ years in DevOps/DevSecOps. Specialized in the security domain, focusing primarily on the backend layer of high-traffic systems. Skilled in Cloud Native Computing, CI/CD, IaC, InfoSec, Automation, Containerization and Observability.
+
 - 🔭 I’m currently working on migration java-based application to Aws EKS env.
-- 🌱 I’m currently learning Python and CKAD (Certified Kubernetes Application Developer)
+- 🌱 I’m currently learning AIOps, Python and CKAD (Certified Kubernetes Application Developer)
 - My Resume: attaching file here
   
 <!--
