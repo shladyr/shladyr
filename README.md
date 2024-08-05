@@ -32,5 +32,13 @@ Here are some ideas to get you started:
 
 </div>
 
+### My Tools & Environments:
+
+| AWS | Kubernetes | Linux | Jenkins | GitHub | Datadog | Vault | ArgoCD |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/datadog/datadog-original.svg" title="Datadog" alt="Datadog" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original-wordmark.svg" title="Vault" alt="Vault" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="55" height="55"/>|
+
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shladyr)](https://github.com/anuraghazra/github-readme-stats)
