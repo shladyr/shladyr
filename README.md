@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 ## On my way to Kubestronaut 🚀
 I’m currently building expertise in Kubernetes and Cloud Native technologies. Here are some of my achievements:
 
-- [Certified Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/96abbfe1-fa1d-4dc9-b355-36a3e9c117c0)
-- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/2440a0a5-e3e9-4c4c-97c3-b835b8a7a1aa)
+- [Certified Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/96abbfe1-fa1d-4dc9-b355-36a3e9c117c0)  
+  ![KCNA Badge](https://images.credly.com/size/110x110/images/8d937cc8-f530-4a17-b4f0-3ec8c436c946/image.png)
+
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/2440a0a5-e3e9-4c4c-97c3-b835b8a7a1aa)  
+  ![CKA Badge](https://images.credly.com/size/110x110/images/bd31ef4c-d3f7-4d2b-8a2f-4ec5d8e0287a/image.png)
 
 Stay tuned for more milestones as I continue my journey to becoming a **Kubestronaut**! 🌌
 
