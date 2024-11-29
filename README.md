@@ -6,7 +6,7 @@ I'm an IT engineer with 10+ years of experience in SysOps/SRE and 7+ years in De
 - 📚 I’m currently learning LLMOps and Platform Engineering approach
 - 🤲 I’m planning to share here my Demos and Pet Projects
 - 🧡 I like flowers 🌷, theatre 🎭 and baroque music 🎻
-- 😃 Fun fact about Me: "All my life, I dreamed of learning how to draw, and in IT, what I enjoyed most was creating visual diagrams. Now, artificial intelligence will both teach me to draw and create diagrams on its own."😅
+- 😃 "All my life, I’ve dreamed of learning to draw. But in IT, I found my true artistic calling—creating fancy diagrams! Now, thanks to artificial intelligence, I don’t have to choose—it’ll teach me to draw and do the diagramming for me. Living the dream, one AI-assisted masterpiece at a time!😅"
   
 <!--
 **shladyr/shladyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
